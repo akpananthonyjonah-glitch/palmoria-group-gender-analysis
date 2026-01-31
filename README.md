@@ -2,6 +2,8 @@
 # Gender Inequalities and Compensation Analysis for Palmoria Group using Power BI:
 
 # 📊 Project Overview
+Palmoria Group is a manufacturing company operating across multiple regions in Nigeria. Following public allegations of gender inequality and compensation bias—dubbed “Palmoria, the Manufacturing Patriarchy”—the company’s leadership commissioned an internal HR analytics review to uncover gaps, risks, and corrective actions.
+
 This project presents a Gender Equality and Compensation Analysis for Palmoria Group, a manufacturing company operating across three regions in Nigeria. The analysis was carried out using Power BI to uncover gender-related workforce issues, salary disparities, bonus allocation patterns, and minimum wage compliance risks.
 The goal is to provide data-driven insights that support fair pay practices, regulatory compliance, and strategic HR decision-making.
 
